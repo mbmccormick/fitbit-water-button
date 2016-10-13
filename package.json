@@ -1,0 +1,7 @@
+{
+    "name": "fitbit-water-button",
+    "dependencies": {
+        "request": "^2.75.0",
+        "moment-timezone": "^0.5.6"
+    }
+}
